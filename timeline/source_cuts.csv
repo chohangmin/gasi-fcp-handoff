@@ -1,0 +1,9 @@
+﻿clip,source_in_seconds,source_out_seconds,review_note
+01_intro_transitions,27.4,55.2,"인사, 5만 원 문답, 장갑 구간의 연결과 발화 확인"
+02_bite1_setup,182.8,192.6,접어서 먹어도 되는지 묻는 대화부터 첫 입까지
+03_bite1_reaction,196.8,205.6,"맛있는데요, 평소에 고등어 좋아하세요, 제일 좋아해요"
+04_bite2_setup,238.2,246.1,잠시만요부터 두 번째 입과 첫 반응까지
+05_bite2_dialogue_rice,251.7,265.5,가시와 살에 대한 문답에서 밥 요청으로 연결
+06_brand_bite5_bridge,334.25,345.65,브랜드 이름 반응에서 마지막 입으로 넘어가는 연결
+07_success_dialogue,391.7,400.9,성공 축하부터 상금 안내와 장갑을 빼도 되는지 묻는 대화
+08_reward_goodbye,409.8,425.5,"상금 수령과 인사, 촬영 말미 대화 후보"

@@ -1,0 +1,412 @@
+{
+  "duration": 78.366666667,
+  "intro": {
+    "source_start": 27.6,
+    "source_end": 32.86666666666667,
+    "duration": 5.266666666666667
+  },
+  "cuts": [
+    {
+      "source_start": 27.6,
+      "source_end": 32.86666666666667,
+      "start": 0,
+      "duration": 5.266666666666667,
+      "zoom": 1,
+      "phase": "greeting"
+    },
+    {
+      "source_start": 35.72,
+      "source_end": 37.35333333333333,
+      "start": 5.266666667,
+      "duration": 1.6333333333333333,
+      "zoom": 1.14,
+      "phase": "hook"
+    },
+    {
+      "source_start": 37.52,
+      "source_end": 39.25333333333334,
+      "start": 6.9,
+      "duration": 1.7333333333333334,
+      "zoom": 1,
+      "phase": "hook"
+    },
+    {
+      "source_start": 40.48,
+      "source_end": 43.54666666666667,
+      "start": 8.633333333,
+      "duration": 3.066666666666667,
+      "zoom": 1.03,
+      "phase": "talk"
+    },
+    {
+      "source_start": 43.58,
+      "source_end": 47.78,
+      "start": 11.7,
+      "duration": 4.2,
+      "zoom": 1,
+      "phase": "talk"
+    },
+    {
+      "source_start": 48.38,
+      "source_end": 50.11333333333334,
+      "start": 15.9,
+      "duration": 1.7333333333333334,
+      "zoom": 1.13,
+      "phase": "talk"
+    },
+    {
+      "source_start": 51.66,
+      "source_end": 54.26,
+      "start": 17.633333333,
+      "duration": 2.6,
+      "zoom": 1.1,
+      "phase": "talk"
+    },
+    {
+      "source_start": 62,
+      "source_end": 63.36666666666667,
+      "start": 20.233333333,
+      "duration": 1.3666666666666667,
+      "zoom": 1,
+      "phase": "glove"
+    },
+    {
+      "source_start": 86.4,
+      "source_end": 89.96666666666667,
+      "start": 21.6,
+      "duration": 3.566666666666667,
+      "zoom": 1.02,
+      "phase": "inspect"
+    },
+    {
+      "source_start": 95.92,
+      "source_end": 97.72,
+      "start": 25.166666667,
+      "duration": 1.8,
+      "zoom": 1.18,
+      "phase": "inspect"
+    },
+    {
+      "source_start": 118,
+      "source_end": 125.13333333333334,
+      "start": 26.966666667,
+      "duration": 7.133333333333334,
+      "zoom": 1,
+      "phase": "brand"
+    },
+    {
+      "source_start": 164,
+      "source_end": 166.2,
+      "start": 34.1,
+      "duration": 2.2,
+      "zoom": 1.05,
+      "phase": "start"
+    },
+    {
+      "source_start": 188.15,
+      "source_end": 191.98333333333335,
+      "start": 36.3,
+      "duration": 3.8333333333333335,
+      "zoom": 1.06,
+      "phase": "bite1"
+    },
+    {
+      "source_start": 197.1,
+      "source_end": 198.16666666666666,
+      "start": 40.133333333,
+      "duration": 1.0666666666666667,
+      "zoom": 1.16,
+      "phase": "bite1"
+    },
+    {
+      "source_start": 241.52,
+      "source_end": 245.25333333333333,
+      "start": 41.2,
+      "duration": 3.7333333333333334,
+      "zoom": 1.05,
+      "phase": "bite2"
+    },
+    {
+      "source_start": 261.05,
+      "source_end": 262.95,
+      "start": 44.933333333,
+      "duration": 1.9,
+      "zoom": 1.1,
+      "phase": "rice"
+    },
+    {
+      "source_start": 263.5,
+      "source_end": 265.6333333333333,
+      "start": 46.833333333,
+      "duration": 2.1333333333333333,
+      "zoom": 1.24,
+      "phase": "rice"
+    },
+    {
+      "source_start": 276.1,
+      "source_end": 280.40000000000003,
+      "start": 48.966666667,
+      "duration": 4.3,
+      "zoom": 1.03,
+      "phase": "bite3"
+    },
+    {
+      "source_start": 281.42,
+      "source_end": 282.5866666666667,
+      "start": 53.266666667,
+      "duration": 1.1666666666666667,
+      "zoom": 1,
+      "phase": "bite3"
+    },
+    {
+      "source_start": 310.35,
+      "source_end": 313.7166666666667,
+      "start": 54.433333333,
+      "duration": 3.3666666666666667,
+      "zoom": 1.05,
+      "phase": "bite4"
+    },
+    {
+      "source_start": 329.333333333,
+      "source_end": 332.7,
+      "start": 57.8,
+      "duration": 3.366666667,
+      "zoom": 1.0,
+      "phase": "brand_qa"
+    },
+    {
+      "source_start": 334.6,
+      "source_end": 336.7,
+      "start": 61.166666667,
+      "duration": 2.1,
+      "zoom": 1.09,
+      "phase": "brand_qa"
+    },
+    {
+      "source_start": 341.15,
+      "source_end": 345.25,
+      "start": 63.266666667,
+      "duration": 4.1,
+      "zoom": 1.05,
+      "phase": "bite5"
+    },
+    {
+      "source_start": 392.18,
+      "source_end": 394.28000000000003,
+      "start": 67.366666667,
+      "duration": 2.1,
+      "zoom": 1,
+      "phase": "reward"
+    },
+    {
+      "source_start": 411.25,
+      "source_end": 414.35,
+      "start": 69.466666667,
+      "duration": 3.1,
+      "zoom": 1,
+      "phase": "reward"
+    },
+    {
+      "source_start": 414.35,
+      "source_end": 417.65000000000003,
+      "start": 72.566666667,
+      "duration": 3.3,
+      "zoom": 1.1,
+      "phase": "reward"
+    }
+  ],
+  "bite_count_output_times": [
+    39.65,
+    44.53,
+    52.966666667,
+    57.333333333,
+    66.616666667
+  ],
+  "speech_duck_windows": [
+    [
+      0,
+      5.266666667
+    ],
+    [
+      5.446666667,
+      6.706666667
+    ],
+    [
+      7.02,
+      8.54
+    ],
+    [
+      8.773333333,
+      11.593333333
+    ],
+    [
+      11.78,
+      14.3
+    ],
+    [
+      14.3,
+      15.7
+    ],
+    [
+      16.12,
+      17.46
+    ],
+    [
+      17.773333333,
+      19.073333333
+    ],
+    [
+      19.073333333,
+      20.113333333
+    ],
+    [
+      21.76,
+      22.64
+    ],
+    [
+      22.64,
+      25.06
+    ],
+    [
+      25.526666667,
+      26.706666667
+    ],
+    [
+      27.046666667,
+      30.066666667
+    ],
+    [
+      30.066666667,
+      33.986666667
+    ],
+    [
+      34.18,
+      35.06
+    ],
+    [
+      35.68,
+      36.12
+    ],
+    [
+      37.49,
+      38.41
+    ],
+    [
+      40.353333333,
+      40.993333333
+    ],
+    [
+      41.38,
+      43.38
+    ],
+    [
+      46.003333333,
+      46.733333333
+    ],
+    [
+      46.993333333,
+      48.313333333
+    ],
+    [
+      53.466666667,
+      54.266666667
+    ],
+    [
+      57.946666667,
+      58.946666667
+    ],
+    [
+      60.126666667,
+      60.906666667
+    ],
+    [
+      61.386666667,
+      63.006666667
+    ],
+    [
+      63.456666667,
+      64.636666667
+    ],
+    [
+      67.486666667,
+      69.266666667
+    ],
+    [
+      69.656666667,
+      70.696666667
+    ],
+    [
+      70.696666667,
+      72.356666667
+    ],
+    [
+      74.756666667,
+      75.696666667
+    ]
+  ],
+  "bgm_silence_windows": [
+    [
+      25.166666667,
+      26.966666667
+    ],
+    [
+      44.933366667,
+      48.966666667
+    ],
+    [
+      57.8,
+      63.266666667
+    ],
+    [
+      69.466633333,
+      72.566633333
+    ]
+  ],
+  "end_card_start": 75.866666667,
+  "end_card_duration": 2.5,
+  "notes": "V2.4: backstage instruction (source 327.0–329.333333s) removed from picture, audio and subtitles. Actual brand Q&A and participant comment remain. Prompted question recorded in raw transcript; do not present as independent spontaneous endorsement. Other editorial choices retained.",
+  "audio_cues": {
+    "eat": [
+      39.07,
+      43.95,
+      52.386666667,
+      56.753333333,
+      66.036666667
+    ],
+    "xp": [
+      39.65,
+      44.53,
+      52.966666667,
+      57.333333333,
+      66.616666667
+    ],
+    "levelup": [
+      68.613333333
+    ],
+    "pickup": [
+      0.12,
+      14.336666667,
+      18.616666667,
+      20.366666667,
+      35.696666667,
+      73.833333333
+    ]
+  },
+  "brand_qa": {
+    "output_start": 57.8,
+    "output_end": 63.266666667,
+    "captions": [
+      "브랜드 이름이 뭐예요?",
+      "가시제거연구소예요.",
+      "브랜드 이름 진짜 잘 지었어요."
+    ]
+  },
+  "bgm_transition_suggested": 34.1,
+  "removed_production_direction": {
+    "source_start": 327.0,
+    "source_end": 329.333333333,
+    "previous_output_start": 57.8,
+    "previous_output_end": 60.13333333333333,
+    "text": "브랜드 이름 한 번 물어봐 주시겠어요?"
+  }
+}
